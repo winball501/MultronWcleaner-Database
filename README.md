@@ -1,5 +1,3 @@
-If you want a more structured look for a documentation file, you can use this version:
-
 The use of a configurable database file for Multron Win Cleaner is simple and practical. Community contributions are welcome!
 
 Contribute: You can develop the database further and submit your own commits.
